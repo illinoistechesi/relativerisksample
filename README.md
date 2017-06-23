@@ -2,6 +2,7 @@
 Sample session on calculating Relative Risk in Java.
 
 ## Links for this Activity
+- [Instructions: Getting Started with Cloud9](https://docs.google.com/document/d/1TVEmGp3CvKRh6_mmnCzn4fr0e93Ep4lol2mOopAo4Hs/edit#heading=h.bvblqleb8rhs)
 - [Zipotle Foodborne Illness Outbreak: Customer Data](https://docs.google.com/document/d/18_ehISMeDvkwM4PppcVAhXCVVJNxILRuqKNhkJfz6FM/edit?usp=sharing)
 
 ## Programs for this Activity
